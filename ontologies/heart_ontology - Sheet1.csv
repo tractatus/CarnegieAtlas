@@ -1,0 +1,13 @@
+carnegiestage,acronym,name,color,id,r,g,b,parent,roi
+18,OT,outflow tract,,10,229,165,68,8,JA
+18,A,ascending aorta,"#8e31a5",,142,49,165,10,NEJ
+18,P,pulmonary trunk and arteries,"#8e31a5",,142,49,165,10,JA
+18,uOT,upper outflow tract,"#ffb589",,255,181,137,10,NEJ
+18,lOT,lower outflow tract,"#d3d3d3",,211,211,211,10,NEJ
+18,iOT,inner outflow tract,"#e5a544",,229,165,68,10,NEJ
+18,RA,right atria,"#d3d3d3",,211,211,211,8,JA
+18,RV,right ventricle,"#d3d3d3",,211,211,211,8,JA
+18,LA,left atria,"#d3d3d3",,211,211,211,8,JA
+18,LV,left ventricle,"#d3d3d3",,211,211,211,8,JA
+18,WH,whole heart,"#d3d3d3",8,211,211,211,,NEJ
+18,epc,epicardium,"#e55b5b",,229,91,91,8,NEJ
