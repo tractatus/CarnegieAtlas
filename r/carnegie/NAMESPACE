@@ -1,5 +1,7 @@
+useDynLib(carnegie)
+
+
 exportPattern("^[[:alpha:]]+")
 importFrom(Rcpp, evalCpp)
-useDynLib(carnegie)
 
 export(glassheart)
